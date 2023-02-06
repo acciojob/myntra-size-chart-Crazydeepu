@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+table,thead,tbody,th,tr,td{
+	border:1px solid black;
+}
